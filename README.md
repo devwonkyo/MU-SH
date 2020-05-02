@@ -59,10 +59,16 @@ PHP사용 웹 사이트 게시판
 > ▲▲▲비밀번호 수정
 
 ![DB Table](./image/user_table.PNG)
+> ▲▲▲유저 데이터베이스 테이블
+
 ![DB Table](./image/board_table.PNG)
+> ▲▲▲게시판 데이터베이스 테이블
+
 ![DB Table](./image/comment_table.PNG)
+> ▲▲▲댓글 데이터베이스 테이블
+
 ![DB Table](./image/alram_table.PNG)
-> ▲▲▲ DataBase table
+> ▲▲▲알림 데이터베이스 테이블
 
 
 
